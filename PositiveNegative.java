@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class Compare {
+ class PositiveNegative {
 
     public static void main(String[] args) { 
 
