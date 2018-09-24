@@ -11,7 +11,11 @@ import java.util.Scanner;
 
         if(num % 2 == 0)
             System.out.println("Even");
+        else if(num<0)
+        System.out.println("invalid");
         else
-            System.out.println("Invalid");
+        System.out.println("Odd");
+        
+         
     }
 }
