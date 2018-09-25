@@ -25,11 +25,11 @@ class Leap_Year
         }
         if(flag)
         {
-            System.out.println("Yes");
+            System.out.println("yes");
         }
         else
         {
-            System.out.println("No");
+            System.out.println("no");
         }
     }
 }
