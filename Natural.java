@@ -19,6 +19,6 @@ class Natural
             sum = sum +i;
             i++;
         }
-        System.out.println(""+sum);
+        System.out.println(sum);
     } 
 }
